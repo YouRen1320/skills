@@ -1,6 +1,6 @@
 # Skills
 
-从 inspect-frontend 项目整理的 Agent Skills。每个目录包含独立的 `SKILL.md` 入口及其配套资源。
+Agent Skills。每个目录包含独立的 `SKILL.md` 入口及其配套资源。
 
 | Skill | 用途 |
 | --- | --- |
